@@ -1,0 +1,31 @@
+.my-bg-green-light {
+    background-color: #EEF7F7;
+}
+
+.my-bg-green-dark {
+    background-color: #51AEAE;
+}
+
+.my-bg-green-dark-plus {
+    background-color: #204646;
+}
+
+.my-color-green-light {
+    color: #EEF7F7;
+}
+
+.my-color-green-medium {
+    color: #51AEAE;
+}
+
+.my-color-green-dark {
+    color: #204646;
+}
+
+.my-border-bottom-green-light {
+    border-bottom: 3px solid #CEE8E8;
+}
+
+.my-border-top-green-light {
+    border-top: 3px solid #CEE8E8;
+}
